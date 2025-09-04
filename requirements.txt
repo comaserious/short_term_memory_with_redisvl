@@ -1,0 +1,6 @@
+redis
+python-dotenv
+openai
+langchain-openai
+numpy
+redisvl
